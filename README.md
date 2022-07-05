@@ -1,6 +1,6 @@
 ## Reuters-Text-Summarization-with-Python
 
-#Background Information
+##Background Information
 
 International Reuters is an international news organization that provides breaking news and information on the top stories, weather, business, entertainment, politics, and more. In April 2020, internationalreuters.com ranked second place among online global news sites in unique users across the world, according to NetRatings; with an increase of 10% over the previous year. 
 
